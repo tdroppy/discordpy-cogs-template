@@ -10,7 +10,7 @@ Discord bot template that features discord.py's cog feature.
 
 Windows: 'pip install discord' then 'pip install dotenv'
 
-Linux: 'python3 -m venv .venv' then 'source .venv/bin/activate' this creates your python environment
+Linux: 'python3 -m venv .venv' then 'source .venv/bin/activate' this creates your python environment, in that you can then do 'pip install discord' then 'pip install dotenv'
 
 
 3: create a file in the root folder fo the bot called '.env'
